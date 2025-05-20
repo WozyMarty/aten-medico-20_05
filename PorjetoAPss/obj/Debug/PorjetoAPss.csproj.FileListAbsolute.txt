@@ -1,0 +1,7 @@
+E:\VSCODE\PorjetoAPss\bin\Debug\PorjetoAPss.exe.config
+E:\VSCODE\PorjetoAPss\bin\Debug\PorjetoAPss.exe
+E:\VSCODE\PorjetoAPss\bin\Debug\PorjetoAPss.pdb
+E:\VSCODE\PorjetoAPss\obj\Debug\PorjetoAPss.csproj.AssemblyReference.cache
+E:\VSCODE\PorjetoAPss\obj\Debug\PorjetoAPss.csproj.CoreCompileInputs.cache
+E:\VSCODE\PorjetoAPss\obj\Debug\PorjetoAPss.exe
+E:\VSCODE\PorjetoAPss\obj\Debug\PorjetoAPss.pdb
